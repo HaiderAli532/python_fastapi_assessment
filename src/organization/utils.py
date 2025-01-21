@@ -1,0 +1,1 @@
+#Reusable logic for User Entity
